@@ -11,11 +11,11 @@ A self-motivated engineer researcher with strong skill in communication, program
 
 <img src="https://user-images.githubusercontent.com/46063093/189516845-5dafeb80-7992-480d-805c-77723088c485.png" width="250" height="250" /> <img src="https://user-images.githubusercontent.com/46063093/189516898-8059fa31-fc0c-4108-9140-da52245dfbe4.jpeg" width="250" height="250" />
 
-2. Develop a deep learning algorithm that optimized to run on embedded system.
+1. Develop a deep learning algorithm that optimized to run on embedded system.
 
 [EMG based softhand control system](https://github.com/kidserge-yong/pySofthand)
 
-3. Create robot that reduce human labor.
+1. Create robot that reduce human labor.
 
 <img src="https://user-images.githubusercontent.com/46063093/189517420-1fd63a18-23e9-4213-baa7-461b05a16c40.png" width="250" height="250" />
 
@@ -28,9 +28,8 @@ Focus on robotic related programming language and deep learning system.
 ### Language
 - C, C++, C#: OpenGL, MATLAB, Python
 
--- Python: Experienced with TensorFlow, torch, Django, pygame, streamlit, flask
-
--- MATLAB: EEGLAB, Simulink, 
+-   Python: Experienced with TensorFlow, torch, Django, pygame, streamlit, flask
+-   MATLAB: EEGLAB, Simulink, 
 ### Hardware
 -	VHDL, android for raspberry pi, CT scan, MRI operator
 ### Website
