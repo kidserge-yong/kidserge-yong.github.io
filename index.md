@@ -7,15 +7,15 @@ LinkedIn Profile: https://www.linkedin.com/in/sorawit-stapornchaisit-75b7a974/
 A self-motivated engineer researcher with strong skill in communication, programming, and electrical hardware development. Professional in electronic engineer for signal processing and communication between device using serial, wireless, and/or network protocol. My skill particularly in area of data and robotic engineer with python-based programming in Windows, Mac, and Linux operating system. Experienced in adapt AI and machine learning using scikit-learn to estimate real-world data for decision in robot. Excellent international and interdisciplinary team work ability with good understanding for state-of-the-art technologies in the field of computer engineering.
 
 ### My interest is
-1. Create model that used synthetic training data to detect object in real-world.
+- Create model that used synthetic training data to detect object in real-world.
 
 <img src="https://user-images.githubusercontent.com/46063093/189516845-5dafeb80-7992-480d-805c-77723088c485.png" width="250" height="250" /> <img src="https://user-images.githubusercontent.com/46063093/189516898-8059fa31-fc0c-4108-9140-da52245dfbe4.jpeg" width="250" height="250" />
 
-1. Develop a deep learning algorithm that optimized to run on embedded system.
+- Develop a deep learning algorithm that optimized to run on embedded system.
 
 [EMG based softhand control system](https://github.com/kidserge-yong/pySofthand)
 
-1. Create robot that reduce human labor.
+- Create robot that reduce human labor.
 
 <img src="https://user-images.githubusercontent.com/46063093/189517420-1fd63a18-23e9-4213-baa7-461b05a16c40.png" width="250" height="250" />
 
@@ -27,8 +27,9 @@ A self-motivated engineer researcher with strong skill in communication, program
 Focus on robotic related programming language and deep learning system.
 ### Language
 - C, C++, C#: OpenGL, MATLAB, Python
-  - Python: Experienced with TensorFlow, torch, Django, pygame, streamlit, flask
-  - MATLAB: EEGLAB, Simulink, 
+
+-   Python: Experienced with TensorFlow, torch, Django, pygame, streamlit, flask
+-   MATLAB: EEGLAB, Simulink, 
 ### Hardware
 -	VHDL, android for raspberry pi, CT scan, MRI operator
 ### Website
@@ -71,12 +72,14 @@ https://user-images.githubusercontent.com/46063093/189518619-b257dc7f-847f-4100-
 
 **Finger motion capture.**
 - Produced new AI based motion capture using all RGB and deep data. The system able to track every single movement of finger separately using image data and convolutional-pose-machines. The result was test and verify using motion capture (Optitrack) with accuracy of 83%. Current platform is realsense camera with Tensorflow on python and output is compare with conventional system with accuracy of 82%.
+
 <img src="https://user-images.githubusercontent.com/46063093/189518042-c8f5e035-6e93-4f31-9a84-4d21606a5bfe.png" width="500" height="250" />
 
 https://github.com/shihenw/convolutional-pose-machines-release
 
 **Skeleton muscle modeling from CT and MRI image.**
 - Create AI to automate instant segmentation of human muscles, bone, skin and fat of lower arm using simulated data.
+
 <img src="https://user-images.githubusercontent.com/46063093/189518124-331dd394-37e5-41a4-9f89-0be44334d353.png" width="500" height="250" />
 
 ## Education
