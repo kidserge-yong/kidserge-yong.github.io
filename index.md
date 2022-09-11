@@ -75,7 +75,7 @@ September 2020 – March 2021 (6 Months): Researcher
 - The propose of this project was control angle and stiffness of finger and wrist in the same time.
 - Developed Array EMG system to measure deep muscles in forearm. Successfully measure finger muscles which locate deep inside forearm and are relatively small compare to other muscles. Convert technology used in EEG system by place multiple number of monopole sensor on the forearm. First model is AMICA using [EEGLAB](https://sccn.ucsd.edu/wiki/AMICA) with correlation coefficient to control each finger separately. 
 
-<video tabindex="-1" src="https://user-images.githubusercontent.com/46063093/189518619-b257dc7f-847f-4100-a927-b5b994de05ca.mp4"></video>
+<video controls tabindex="-1" src="https://user-images.githubusercontent.com/46063093/189518619-b257dc7f-847f-4100-a927-b5b994de05ca.mp4"></video>
 
 **Human head pose direction estimation.**
 - Estimate human head direction using facial landmark and normalize 3D model. The facial landmark was estimated using machine learning on 256x256p then normalize model from ratio of middle eye, nose, mouth was calculated according to general anatomy. Finally head pose direction was estimated by match the 3D model with 15 points of facial landmark (4 eye, 3 nose, 2 cheek, 5 mouth, and 1 chin).
