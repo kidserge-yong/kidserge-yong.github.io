@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Sorawit Stapornchaisit
 Email: sorawit2000y2k@gmail.com
 
