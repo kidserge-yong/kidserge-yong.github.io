@@ -27,9 +27,8 @@ A self-motivated engineer researcher with strong skill in communication, program
 Focus on robotic related programming language and deep learning system.
 ### Language
 - C, C++, C#: OpenGL, MATLAB, Python
-
--   Python: Experienced with TensorFlow, torch, Django, pygame, streamlit, flask
--   MATLAB: EEGLAB, Simulink, 
+  - Python: Experienced with TensorFlow, torch, Django, pygame, streamlit, flask
+  - MATLAB: EEGLAB, Simulink, 
 ### Hardware
 -	VHDL, android for raspberry pi, CT scan, MRI operator
 ### Website
