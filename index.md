@@ -1,11 +1,9 @@
----
-layout: default
----
-
 # Sorawit Stapornchaisit
-Email: sorawit2000y2k@gmail.com
+Email: [sorawit2000y2k@gmail.com](mailto:sorawit2000y2k@gmail.com)
 
-LinkedIn Profile: https://www.linkedin.com/in/sorawit-stapornchaisit-75b7a974/
+[Github Profile](https://github.com/kidserge-yong)
+
+[LinkedIn Profile](https://www.linkedin.com/in/sorawit-stapornchaisit-75b7a974/)
 
 ## Profile
 A self-motivated engineer researcher with strong skill in communication, programming, and electrical hardware development. Professional in electronic engineer for signal processing and communication between device using serial, wireless, and/or network protocol. My skill particularly in area of data and robotic engineer with python-based programming in Windows, Mac, and Linux operating system. Experienced in adapt AI and machine learning using scikit-learn to estimate real-world data for decision in robot. Excellent international and interdisciplinary team work ability with good understanding for state-of-the-art technologies in the field of computer engineering.
@@ -29,18 +27,26 @@ A self-motivated engineer researcher with strong skill in communication, program
 
 ## Programming skills
 Focus on robotic related programming language and deep learning system.
-### Language
+### Programming Language
 - C, C++, C#: OpenGL, MATLAB, Python
 
 -   Python: Experienced with TensorFlow, torch, Django, pygame, streamlit, flask
 -   MATLAB: EEGLAB, Simulink, 
-### Hardware
+
+
+### Hardware related
 -	VHDL, android for raspberry pi, CT scan, MRI operator
-### Website
+
+
+### Website frontend
 -	HTML with bootstrap, nodejs
+
+
 ### Database
 -	PostgreSQL, SQLite, JSON
-### Program
+
+
+### Simulation program
 - Blender, Unity, Meshmixer
 
 ## Experience
@@ -69,7 +75,7 @@ September 2020 – March 2021 (6 Months): Researcher
 - The propose of this project was control angle and stiffness of finger and wrist in the same time.
 - Developed Array EMG system to measure deep muscles in forearm. Successfully measure finger muscles which locate deep inside forearm and are relatively small compare to other muscles. Convert technology used in EEG system by place multiple number of monopole sensor on the forearm. First model is AMICA using [EEGLAB](https://sccn.ucsd.edu/wiki/AMICA) with correlation coefficient to control each finger separately. 
 
-https://user-images.githubusercontent.com/46063093/189518619-b257dc7f-847f-4100-a927-b5b994de05ca.mp4
+<video tabindex="-1" src="https://user-images.githubusercontent.com/46063093/189518619-b257dc7f-847f-4100-a927-b5b994de05ca.mp4"></video>
 
 **Human head pose direction estimation.**
 - Estimate human head direction using facial landmark and normalize 3D model. The facial landmark was estimated using machine learning on 256x256p then normalize model from ratio of middle eye, nose, mouth was calculated according to general anatomy. Finally head pose direction was estimated by match the 3D model with 15 points of facial landmark (4 eye, 3 nose, 2 cheek, 5 mouth, and 1 chin).
@@ -79,7 +85,7 @@ https://user-images.githubusercontent.com/46063093/189518619-b257dc7f-847f-4100-
 
 <img src="https://user-images.githubusercontent.com/46063093/189518042-c8f5e035-6e93-4f31-9a84-4d21606a5bfe.png" width="500" height="250" />
 
-https://github.com/shihenw/convolutional-pose-machines-release
+[convolutional-pose-machines-release](https://github.com/shihenw/convolutional-pose-machines-release)
 
 **Skeleton muscle modeling from CT and MRI image.**
 - Create AI to automate instant segmentation of human muscles, bone, skin and fat of lower arm using simulated data.
@@ -90,6 +96,7 @@ https://github.com/shihenw/convolutional-pose-machines-release
 ### Doctor of Philosophy (Ph.D.) in Information and Communication Engineering
 - September 2017 - August 2020
 - Tokyo Institute of Technology, Japan
+
 ### Master of Engineer (M.Eng.) in Information and Communication Engineering
 - September 2015 - August 2017 
 - Tokyo Institute of Technology, Japan
